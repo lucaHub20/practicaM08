@@ -1,0 +1,5 @@
+<?php
+
+echo "PRUEBA PARA VER SI ESTO FUNCIONA :)"
+
+?>
