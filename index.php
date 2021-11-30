@@ -1,3 +1,3 @@
 <?php
-echo "PRUEBA PARA VER SI ESTO FUNCIONA :)"
+echo "Esta es mi prueba"
 ?>
